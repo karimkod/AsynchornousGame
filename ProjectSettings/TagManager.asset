@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeadPlayer
+  - SimpleRoad
+  - Obstacle_01
+  - Obstacle
+  - Obstacle_02
+  - Obstacle_03
+  - Obstacle_04
+  - Wall
+  - Obstacle_05
+  - Obstacle_06
+  - Obstacle_07
+  - Obstacle_08
+  - Obstacle_09
+  - Obstalce_10
+  - Obstacle_11
+  - Obstacle_12
+  - Obstacle_13
+  - Obstacle_14
+  - Obstacle_15
+  - Obstacle_16
+  - Obstacle_17
+  - Obstacle_18
+  - Obstacle_19
+  - Obstacle_0
+  - Obstacle_0_1
+  - Obstacle_0_2
+  - Obstacle_0_3
+  - Obstacle_0_4
+  - Obstacle_0y
+  - Obstacle_0_1y
+  - Obstacle_0_2y
+  - Obstacle_0_3y
+  - Obstacle_0_4y
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2790702739
+    locked: 0
+  - name: FrontEnd
+    uniqueID: 1755181355
+    locked: 0
